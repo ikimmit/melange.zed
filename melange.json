@@ -319,9 +319,9 @@
         "element.disabled": null,
         "drop_target.background": "#e9e1db",
         "ghost_element.background": null,
-        "ghost_element.hover": "#f4f0ed99",
+        "ghost_element.hover": "#ffff0066", // Hover of clickable things
         "ghost_element.active": null,
-        "ghost_element.selected": "#f1f1f1",
+        "ghost_element.selected": "#f8ead399", // Selected file in the navigator
         "ghost_element.disabled": null,
         "text": "#54433a",
         "text.muted": "#7d6658",
@@ -334,7 +334,7 @@
         "icon.placeholder": null,
         "icon.accent": null,
         "status_bar.background": "#e9e1db",
-        "title_bar.background": "#523C3A",
+        "title_bar.background": "#a79e9d", // Title bar was too dark
         "toolbar.background": "#f1f1f1",
         "tab_bar.background": "#e9e1db",
         "tab.inactive_background": "#e9e1db",
